@@ -1,0 +1,9 @@
+*.aux
+*/*.pdf
+*.ilg
+*.ind
+*.log
+*.synctex.gz
+*.bak
+*/main.tex
+example.pdf
