@@ -5,6 +5,7 @@ My indexes for the SANS courses.
 # Usage
 
 To build the index for 508, `./make.sh 508`.
+
 Note: The package `texlive-latex-extra` will be sufficient.
 
 | Badge | Course | Certification | Index |

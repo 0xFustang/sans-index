@@ -453,7 +453,7 @@
 
 \indexentry{Tokens|book{1}}{128}
 \indexentry{Token Stealing|book{1}}{129}
-\indexentry{MetaSploit|{1}}{129}
+\indexentry{MetaSploit|book{1}}{129}
 \indexentry{Mimikatz|book{1}}{129}
 \indexentry{SeImpersonate@\texttt{SeImpersonate}|book{1}}{129}
 
@@ -490,13 +490,12 @@
 \indexentry{Mimikatz|book{1}}{141}
 
 \indexentry{Kerberos!Attacks|book{1}}{143}
-\indexentry{Pass-the-ticket|{1}}{143}
-\indexentry{Overpass the Hash|{1}}{143}
-\indexentry{Kerberoasting|{1}}{143}
-\indexentry{Golden Ticket|{1}}{143}
-\indexentry{Silver Ticket|{1}}{143}
-\indexentry{Skeleton Key|{1}}{143}
-\indexentry{DC Sync|{1}}{143}
+\indexentry{Overpass the Hash|book{1}}{143}
+\indexentry{Kerberoasting|book{1}}{143}
+\indexentry{Golden Ticket|book{1}}{143}
+\indexentry{Silver Ticket|book{1}}{143}
+\indexentry{Skeleton Key|book{1}}{143}
+\indexentry{DC Sync|book{1}}{143}
 
 \indexentry{Defending Credentials!Tickets|book{1}}{145}
 
