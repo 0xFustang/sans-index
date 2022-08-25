@@ -16,3 +16,5 @@ Note: The package `texlive-latex-extra` will be sufficient.
 
 https://github.com/dhondta/tex-course-index-template
 https://github.com/ancailliau/sans-indexes
+
+# Help
